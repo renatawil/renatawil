@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Renata 👋
+# ENG - Hi, I'm Renata 👋
 
 Senior Backend Engineer with 11 years of .NET, C# and Azure under my belt.
 I've seen a lot of code, and my favorite is still the kind that passes its tests on the first run.
 
-Senior .NET engineer focused on distributed systems and microservices architecture. I design secure, scalable, highly available solutions, applying DDD, CQRS and SOLID to turn complex requirements into maintainable, well-tested code.
+Focused on distributed systems and microservices architecture. I design secure, scalable, highly available solutions, applying DDD, CQRS and SOLID to turn complex requirements into maintainable, well-tested code.
 
 ## What I do best
 - 🏗️ Architectures that survive growth: microservices, DDD, CQRS, Clean Architecture
@@ -39,7 +39,8 @@ Neatly layered, as it should be.
 ## Fun fact
 Test coverage below 90% makes me restless.
 
-# Olá, sou a Renata 👋
+
+# PT - Olá, sou a Renata 👋
 
 Engenheira Backend Sénior com 11 anos de .NET, C# e Azure.
 Já vi muito código, e o meu favorito continua a ser o que passa nos testes à primeira.
