@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ENG - Hi, I'm Renata 👋
+# Hi, I'm Renata Viana👋
 
 Senior Backend Engineer with 11 years of .NET, C# and Azure under my belt.
 I've seen a lot of code, and my favorite is still the kind that passes its tests on the first run.
